@@ -1,4 +1,4 @@
-<meta http-equiv="refresh" content="0; url='https://mimbcd-ui.github.io/repo-template-datasets/web/index.html'" />
+<meta http-equiv="refresh" content="0; url='https://mimbcd-ui.github.io/dataset-uta4-sus/web/index.html'" />
 
 # Datasets Repository Template
 
