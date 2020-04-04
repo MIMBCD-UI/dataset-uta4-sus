@@ -130,7 +130,7 @@ The following list, represents the set of related repositories for the presented
 
 ### Dataset Resources
 
-To publish our [datasets](https://www.kaggle.com/MIMBCD-UI) we used a well known platform called [Kaggle](https://www.kaggle.com). To access our project's [Profile Page](https://www.kaggle.com/MIMBCD-UI) just follow the [link](https://www.kaggle.com/MIMBCD-UI).
+To publish our [datasets](https://www.kaggle.com/MIMBCD-UI) we used a well known platform called [Kaggle](https://www.kaggle.com). To access our project's [Profile Page](https://www.kaggle.com/MIMBCD-UI) just follow the [link](https://www.kaggle.com/MIMBCD-UI). For the purpose, two main resources [`uta4-sm-vs-mm-sheets`](https://www.kaggle.com/MIMBCD-UI/uta4-sm-vs-mm-sheets) and [`uta4-sm-vs-mm-sheets-nameless`](https://www.kaggle.com/MIMBCD-UI/uta4-sm-vs-mm-sheets-nameless) are published in this platform.
 
 ### License & Copyright
 
